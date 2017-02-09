@@ -1,15 +1,18 @@
 # TA_Fighter2016
-Final project for COP3502 class. Text based fighting game, similar battle style as Pokemon.
+Final project for COP3503 class. Text based fighting game, similar battle style as Pokemon.
 						 
 ***************************************************************************
-Version 1.01	
+Version 1.02	
 Created by: Damian Alderman
-07/27/2016
+02/09/2017
 ***************************************************************************
 Changelog:
 
+02/09/2017: Version 1.02
+- Uploaded TA_Fighter2016 to GitHub for better versioning maintenance.
+
 07/28/2016: Version 1.01
-- Added comments to the source code for better debugging in the future
+- Added comments to the source code for better debugging in the future.
 - Edited the randomization of the enemy attack pattern, attack damage and 
   defense damage reduction.
 
