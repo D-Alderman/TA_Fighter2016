@@ -1,5 +1,5 @@
 # TA_Fighter2016
-Final project for COP3502 class. Text based fighting game, similar battle style as Pokemon.
+Final project for COP3503 class. Text based fighting game, similar battle style as Pokemon.
 						 
 ***************************************************************************
 Version 1.02	
