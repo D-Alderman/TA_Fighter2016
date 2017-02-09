@@ -4,7 +4,7 @@ Final project for COP3503 class. Text based fighting game, similar battle style 
 ***************************************************************************
 Version 1.02	
 Created by: Damian Alderman  
-07/27/2016
+&copy;07/27/2016
 ***************************************************************************
 Changelog:
 
